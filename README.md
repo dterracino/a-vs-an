@@ -15,3 +15,6 @@ http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 http://stackoverflow.com/questions/4558437/programmatically-determine-whether-to-describe-an-object-with-a-or-an/8044744#8044744
 
 http://stackoverflow.com/questions/1288291/how-can-i-correctly-prefix-a-word-with-a-and-an/1288331#1288331
+
+https://github.com/Kaivosukeltaja/php-indefinite-article
+
