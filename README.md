@@ -10,4 +10,6 @@ The dataset used is based on the [wikipedia-article-text dump](http://en.wikiped
 
 The implementations are efficient: on a single thread of a 3.6GHz i7-4770k a benchmark classifying all words of [an english dictionary](http://wixml.net/moby.html) achieves about 37 million words a second; that's just 100 clock cycles per word. The javascript implementations were benchmarked on chrome 35, firefox 32.0a1 (2014-05-22), IE 11, and opera (12 and 21), and are all about 7-10 times slower, at approximately 4-5 million classifications per second. 
 
-Dave Note 1: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+http://stackoverflow.com/questions/4558437/programmatically-determine-whether-to-describe-an-object-with-a-or-an/8044744#8044744
+http://stackoverflow.com/questions/1288291/how-can-i-correctly-prefix-a-word-with-a-and-an/1288331#1288331
